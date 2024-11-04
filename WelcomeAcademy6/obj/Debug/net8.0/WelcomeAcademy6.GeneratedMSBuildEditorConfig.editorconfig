@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WelcomeAcademy6
-build_property.ProjectDir = C:\Users\Betacom\Desktop\Academy Beta\PROF_SOL_1.1\WelcomeAcademy6\WelcomeAcademy6\
+build_property.ProjectDir = C:\Users\Betacom\Source\Repos\Test\WelcomeAcademy6\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

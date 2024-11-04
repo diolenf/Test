@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Betacom\\Desktop\\Academy Beta\\PROF_SOL_1.1\\WelcomeAcademy6\\WelcomeAcademy6\\WelcomeAcademy6.csproj",
+      "projectUniqueName": "C:\\Users\\Betacom\\Source\\Repos\\Test\\WelcomeAcademy6\\WelcomeAcademy6.csproj",
       "projectName": "WelcomeAcademy6",
-      "projectPath": "C:\\Users\\Betacom\\Desktop\\Academy Beta\\PROF_SOL_1.1\\WelcomeAcademy6\\WelcomeAcademy6\\WelcomeAcademy6.csproj",
+      "projectPath": "C:\\Users\\Betacom\\Source\\Repos\\Test\\WelcomeAcademy6\\WelcomeAcademy6.csproj",
       "packagesPath": "C:\\Users\\Betacom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Betacom\\Desktop\\Academy Beta\\PROF_SOL_1.1\\WelcomeAcademy6\\WelcomeAcademy6\\obj\\",
+      "outputPath": "C:\\Users\\Betacom\\Source\\Repos\\Test\\WelcomeAcademy6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
