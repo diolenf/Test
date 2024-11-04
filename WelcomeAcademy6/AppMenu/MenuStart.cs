@@ -10,7 +10,7 @@ using Microsoft.VisualBasic;
 namespace WelcomeAcademy6.AppMenu
 {
 
-    //TEST GITHUB CIAOOOOO
+    //TEST GITHUB CIAO
     internal static class MenuStart
     {
         public static void Show()
