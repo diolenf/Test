@@ -28,6 +28,7 @@ namespace WelcomeAcademy6.AppMenu
                     Console.WriteLine("Benvenuto in Academy6 Corporation");
                     Console.WriteLine(lineSeparator);
                     Console.WriteLine();
+                    Console.WriteLine();
                     Console.WriteLine("1. Inserimento Lavoratore");
                     Console.WriteLine(lineSeparator);
                     Console.WriteLine("2. Inserimento Settimana Lavorativa");
