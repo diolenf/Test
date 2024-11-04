@@ -1,0 +1,15 @@
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\bin\Debug\net8.0\WelcomeAcademy6.exe
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\bin\Debug\net8.0\WelcomeAcademy6.deps.json
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\bin\Debug\net8.0\WelcomeAcademy6.runtimeconfig.json
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\bin\Debug\net8.0\WelcomeAcademy6.dll
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\bin\Debug\net8.0\WelcomeAcademy6.pdb
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.AssemblyInfoInputs.cache
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.AssemblyInfo.cs
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.csproj.CoreCompileInputs.cache
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.sourcelink.json
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.dll
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\refint\WelcomeAcademy6.dll
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.pdb
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\WelcomeAcademy6.genruntimeconfig.cache
+C:\Users\Betacom\source\repos\WelcomeAcademy6\WelcomeAcademy6\obj\Debug\net8.0\ref\WelcomeAcademy6.dll

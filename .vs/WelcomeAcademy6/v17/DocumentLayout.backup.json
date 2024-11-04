@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|c:\\users\\betacom\\source\\repos\\welcomeacademy6\\welcomeacademy6\\blogic\\workermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|solutionrelative:welcomeacademy6\\blogic\\workermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|c:\\users\\betacom\\source\\repos\\welcomeacademy6\\welcomeacademy6\\appmenu\\menustart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|solutionrelative:welcomeacademy6\\appmenu\\menustart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|c:\\users\\betacom\\source\\repos\\welcomeacademy6\\welcomeacademy6\\datamodel\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|solutionrelative:welcomeacademy6\\datamodel\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|c:\\users\\betacom\\source\\repos\\welcomeacademy6\\welcomeacademy6\\datamodel\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|solutionrelative:welcomeacademy6\\datamodel\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|c:\\users\\betacom\\source\\repos\\welcomeacademy6\\welcomeacademy6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED90807-50EB-465D-AFC8-3D516FEF5EB5}|WelcomeAcademy6\\WelcomeAcademy6.csproj|solutionrelative:welcomeacademy6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkDay.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\DataModel\\WorkDay.cs",
+              "RelativeDocumentMoniker": "WelcomeAcademy6\\DataModel\\WorkDay.cs",
+              "ToolTip": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\DataModel\\WorkDay.cs",
+              "RelativeToolTip": "WelcomeAcademy6\\DataModel\\WorkDay.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:19:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\BLogic\\WorkerManager.cs",
+              "RelativeDocumentMoniker": "WelcomeAcademy6\\BLogic\\WorkerManager.cs",
+              "ToolTip": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\BLogic\\WorkerManager.cs",
+              "RelativeToolTip": "WelcomeAcademy6\\BLogic\\WorkerManager.cs",
+              "ViewState": "AgIAACICAAAAAAAAAAArwFACAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:39:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\DataModel\\Worker.cs",
+              "RelativeDocumentMoniker": "WelcomeAcademy6\\DataModel\\Worker.cs",
+              "ToolTip": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\DataModel\\Worker.cs",
+              "RelativeToolTip": "WelcomeAcademy6\\DataModel\\Worker.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:33:56.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuStart.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\AppMenu\\MenuStart.cs",
+              "RelativeDocumentMoniker": "WelcomeAcademy6\\AppMenu\\MenuStart.cs",
+              "ToolTip": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\AppMenu\\MenuStart.cs",
+              "RelativeToolTip": "WelcomeAcademy6\\AppMenu\\MenuStart.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwHwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:34:44.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeAcademy6\\Program.cs",
+              "ToolTip": "C:\\Users\\Betacom\\source\\repos\\WelcomeAcademy6\\WelcomeAcademy6\\Program.cs",
+              "RelativeToolTip": "WelcomeAcademy6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:46:52.738Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 531,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
