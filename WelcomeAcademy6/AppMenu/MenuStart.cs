@@ -15,6 +15,7 @@ namespace WelcomeAcademy6.AppMenu
     {
         public static void Show()
         {
+            //test:::::
             bool exitLoop = false;
             string lineSeparator = new('-', 75);
             WorkerManager workerManager = new();
